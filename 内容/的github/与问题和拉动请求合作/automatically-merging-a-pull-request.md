@@ -1,4 +1,4 @@
----
+---{"code":"NoSuchKey","message":"The specified key does not exist.","requestId":"f5172e12-ccaf-46fc-a85d-f9a1c5b8bbd3"}
 title: Automatically merging a pull request
 intro: You can increase development velocity by enabling auto-merge for a pull request so that the pull request will merge automatically when all merge requirements are met.
 product: '{% data reusables.gated-features.auto-merge %}'
